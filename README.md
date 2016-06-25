@@ -5,7 +5,7 @@
 以下是RecycleView的好用的学习Demo
 
 |序号| 项目名称 |项目描述 | 预览| 
-|-------------|-----------: |:----------:| :-------------:| 
+|-------------| :----------- |:----------| :-------------| 
 |1|[cymcsg](https://github.com/cymcsg)/**[UltimateRecyclerView](https://github.com/cymcsg/UltimateRecyclerView)**|RecyclerView支持各种功能的库，star3000+，Ultimate 这个名字就取得屌|![](https://camo.githubusercontent.com/853a63ecd7ea3f4dcc9262fff4e0b30ff8751a33/68747470733a2f2f627974656275636b65742e6f72672f6d61727368616c6368656e2f696d616765732f7261772f343462656231363231323163373139656134303934626437656131633966306364376465346330342f756c74696d61746572656379636c6572766965772f756c74696d6174655f72656379636c65727669657731312e676966)|
 |2|[CymChad](https://github.com/CymChad)/**[BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)** |一个强大并且灵活的RecyclerViewAdapter|![BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper/raw/master/demo_res/demo.gif)|
 |3|[h6ah4i](https://github.com/h6ah4i)/**[android-advancedrecyclerview](https://github.com/h6ah4i/android-advancedrecyclerview)** |RecyclerView支持各种功能的库|无|
