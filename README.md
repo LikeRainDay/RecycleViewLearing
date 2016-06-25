@@ -1,10 +1,8 @@
->博客原地址：[Anthony的简书博客](http://www.jianshu.com/p/154891851fe2)
+>博客原地址：[喜欢雨天的我](http://blog.csdn.net/qq_15807167)
 
->   github地址：https://github.com/CameloeAnthony/Learning-RecyclerView
+>   github地址：https://github.com/houshuai0816
 
->欢迎关注我的微博：[Anthony](http://weibo.com/3288332304)
-
-最近在研究RecyclerView ，还是习惯整理一下开源项目放到github上 ，欢迎提交更新 ，fork，star。  排序纯属个人直觉。
+以下是RecycleView的好用的学习Demo
 
 |序号| 项目名称 |项目描述 | 预览| 
 |-------------|:-----------: |:----------:| :-------------:| 
